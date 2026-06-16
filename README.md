@@ -9,7 +9,7 @@
 [![Groq](https://img.shields.io/badge/LLM-Groq_Llama_3.3-F55036?style=flat)](https://groq.com)
 [![License](https://img.shields.io/badge/License-MIT-22c55e?style=flat)](LICENSE)
 
-[**Live Demo →**](https://your-app-url.com) &nbsp;·&nbsp; [Report Bug](issues)
+
 
 </div>
 
