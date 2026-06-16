@@ -34,7 +34,7 @@ Results displayed — risk level, strength meter, AI guidance
 ```
 
 ---
-
+![Privacy Pulse Screenshot](assets.png)
 ## Why this matters
 
 Password breach checkers exist, but most either require giving up your real password to a third party, bury the result in jargon, or stop at "exposed: yes/no" with no guidance on what to actually do next. Privacy Pulse closes that gap — and costs nothing to run.
