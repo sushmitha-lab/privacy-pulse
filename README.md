@@ -180,7 +180,7 @@ Native async support matters here — the app makes an external HTTP call (to Pw
 **Sushmitha Katherine Jayaraj**
 Data Engineer & Analytics/ML Graduate Student, Northeastern University
 
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/yourusername)
+[LinkedIn](https://linkedin.com/in/sushmitha-katherine-69387b189/) · [GitHub](https://github.com/sushmitha-lab)
 
 ---
 
